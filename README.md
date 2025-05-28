@@ -14,4 +14,4 @@ Scaling and transforming the data
 
 Detecting and handling outliers
 
-These steps ensured that the dataset was well-prepared for analysis or modeling.
+These steps ensured that the dataset was well-prepared for analysis or modelling.
